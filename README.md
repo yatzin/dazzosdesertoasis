@@ -2,7 +2,7 @@
 
 
 ## Useful Links
-[Dazzos Desert Oasis](httpd://dazzosdesertoasis.com/)
+[Dazzos Desert Oasis](https://dazzosdesertoasis.com/)
 
 ## Hosting
 
