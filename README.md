@@ -1,8 +1,20 @@
-# DazzosDesertOasis
+# Dazzos Desert Oasis
 
 
 ## Useful Links
-[FTP/Hosting Creds](https://dazzos.atlassian.net/wiki/spaces/FAM/pages/650346497/DazzosDesertOasis)
+[Dazzos Desert Oasis](httpd://dazzosdesertoasis.com/)
 
-## Hosting Login
-The free hosting plan requires logging in once a year.  I just did it today 4/10/2023
+## Hosting
+
+Now hosted on github pages.  Setting up CNAMES and A records was a little tricky but like following: 
+
+Type	Name	Value
+A	@	185.199.108.153
+A	@	185.199.109.153
+A	@	185.199.110.153
+A	@	185.199.111.153
+
+Type	Name	Value	TTL
+CNAME	www	yatzin.github.io	600 s
+
+
